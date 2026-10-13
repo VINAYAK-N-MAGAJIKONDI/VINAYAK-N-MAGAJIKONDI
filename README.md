@@ -103,7 +103,7 @@ I value the entire problem-solving process, not just the final model.
 
 I'm always interested in discussing machine learning, AI engineering, predictive analytics, and opportunities to solve real-world problems with data.
 
-- **LinkedIn:** [Add your LinkedIn URL]([https://www.linkedin.com/](https://www.linkedin.com/in/vinayakmagajikondi/))
+- **LinkedIn:** [www.linkedin.com/in/vinayakmagajikondi/]([https://www.linkedin.com/](https://www.linkedin.com/in/vinayakmagajikondi/))
 - **Email:** [vinayakmagajikondi61@gmail.com](mailto:vinayakmagajikondi61@gmail.com)
 - **GitHub:** You're already here!
 
