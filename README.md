@@ -136,7 +136,7 @@ Built an AI agent involving MongoDB, exploring the integration of AI capabilitie
 
 **Key areas:** AI Agents · Database Integration · AI System Design
 
-*Add the repository link and a few implementation details here to make this project more informative to recruiters.*
+
 
 ---
 
